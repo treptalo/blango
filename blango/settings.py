@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+sn%dpa!086+g+%44z9*^j^q-u4n!j(#wl)x9a%_1op@zz2+1-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["calypsoelement-milantemple-8000.codio.io", "buttonpicnic-zoombiology-8000.codio.io"]
+ALLOWED_HOSTS = ["calypsoelement-milantemple-8000.codio.io", "buttonpicnic-zoombiology-8000.codio.io", "theoryhostel-panicstate-8000.codio.io"]
 
 
 # Application definition
